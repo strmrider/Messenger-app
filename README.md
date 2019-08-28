@@ -2,7 +2,7 @@
 Android Messenger application written in Java and developed with Android Studio. Including costum-made TCP-based protocol, written in 
 Python, to mannage communication between clients.
 
-## ScreenShot
+## Screenshot
 <img src="images/Screenshot_1566740797.png" width="400">
 
 ## Setup
