@@ -2,6 +2,9 @@
 Android Messenger application written in Java and developed with Android Studio. Including costum-made TCP-based protocol, written in 
 Python, to mannage communication between clients.
 
+## ScreenShot
+<img src="images/Screenshot_1566740797.png" width="400">
+
 ## Setup
 Set server's IP address and port and run on an android device. App will be installed and initiated on first run. 
 
@@ -16,6 +19,6 @@ Set server's IP address and port and run on an android device. App will be insta
 
 ## Server's Features
 - Text and file transfer.
-- Pending messages.
+- Pending messages and requests.
 - Users profile updates.
 - Registered contacts filter.
