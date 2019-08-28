@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/removeMemberMenucontextItem"
+        android:title="Remove" />
+    <item
+        android:id="@+id/makeAdminMenuContextItem"
+        android:title="Make admin" />
+</menu>
